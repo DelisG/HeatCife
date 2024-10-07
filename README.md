@@ -56,9 +56,7 @@ Desenvolver um **aplicativo móvel** com as seguintes funcionalidades principais
 - **Redução de Emissões**: Incentivar iniciativas de mitigação e redução de emissões tanto para indivíduos quanto para empresas.
 
 ---
-Aqui está a informação editada em Markdown para exibir a equipe de forma clara:
-
-## Equipe Desenvolvedora
+### Equipe Desenvolvedora
 
 - [Dayane Araujo](https://github.com/dayanearauj0)
 - [Delis Guerra](https://github.com/DelisG)
@@ -66,4 +64,4 @@ Aqui está a informação editada em Markdown para exibir a equipe de forma clar
 - Joab Tomaz
 - [Luiz Augusto](https://github.com/luizferrazz)
 
-![](7.png)
+![](7.jpg)
