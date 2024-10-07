@@ -58,7 +58,6 @@ Desenvolver um **aplicativo móvel** com as seguintes funcionalidades principais
 ---
 Aqui está a informação editada em Markdown para exibir a equipe de forma clara:
 
-```
 ## Equipe Desenvolvedora
 
 - [Dayane Araujo](https://github.com/dayanearauj0)
@@ -66,7 +65,5 @@ Aqui está a informação editada em Markdown para exibir a equipe de forma clar
 - [Gustavo Lima](https://github.com/custafo)
 - Joab Tomaz
 - [Luiz Augusto](https://github.com/luizferrazz)
-```
 
-Dessa forma, os links estão formatados corretamente e a equipe é apresentada de forma assertiva!
 ![](7.png)
