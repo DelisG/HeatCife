@@ -1,5 +1,5 @@
 # HeatCife🔥
-![](mockup.png)
+![](Index.png)
 
 ### Pré-Projeto: App de Monitoramento de Gases do Efeito 
 
