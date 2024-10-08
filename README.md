@@ -27,7 +27,7 @@ A crescente emissão de gases de efeito estufa (GEE) e a falta de acesso a infor
 Desenvolver um aplicativo que:
 - **Leve informação**: Acesso e conscientização sobre os gases de efeito estufa, qualidade do ar e suas causas e efeitos.
 - **Alcance amplo**: Forneça dados locais e globais. 
-- **Estimule a ação**: Ofereça dados para que outras plataformas possam acessar essas informações e utiliza-las.
+- **Estimule a ação**: Incentivar ações recomendáveis diante do atual índice de qualidade do ar.
 
 ---
 
