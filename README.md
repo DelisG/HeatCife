@@ -4,7 +4,6 @@
     </h1>
 </div>
 
-
 ![](apresentacao.png)
 
 ### Pré-Projeto: App de Monitoramento de Gases do Efeito 
