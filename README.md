@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-    <h1 style="display: inline; margin: 0;">HeatCife</h1>
+    <h1 style="display: inline; margin: 0;">HeatCife
     <img src="carbonnie.png" alt="Descrição da imagem" width="75" style="vertical-align: middle; display: inline;"/>
+    </h1>
 </div>
 
 
