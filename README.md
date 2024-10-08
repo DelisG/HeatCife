@@ -1,8 +1,15 @@
-# HeatCife📍
-![](Index.png)
+<div style="text-align: center;">
+    <h1 style="display: inline; margin: 0;">HeatCife
+    <img src="carbonnie.png" alt="Descrição da imagem" width="75" style="vertical-align: middle; display: inline;"/>
+    </h1>
+</div>
+
+![](apresentacao.png)
 
 ### Pré-Projeto: App de Monitoramento de Gases do Efeito 
-💻
+
+
+
 **Tema:** Descubra o papel dos gases e efeito estufa em seu bairro 
 
 
