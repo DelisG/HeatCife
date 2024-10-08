@@ -1,8 +1,8 @@
-# HeatCife🔥
+# HeatCife📍
 ![](Index.png)
 
 ### Pré-Projeto: App de Monitoramento de Gases do Efeito 
-
+💻
 **Tema:** Descubra o papel dos gases e efeito estufa em seu bairro 
 
 
